@@ -1,0 +1,9 @@
+#wrapper {
+    margin: 0px auto;
+    width: 900px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+    color: gold;
+    padding: 25px;
+}
