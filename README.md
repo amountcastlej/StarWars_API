@@ -1,4 +1,4 @@
-# StarWars API
+# Star Wars API
 
 This project I used HTML, CSS & JS to randomly generate a Star Wars character using a Star Wars API. 
 
